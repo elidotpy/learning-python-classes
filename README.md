@@ -1,7 +1,7 @@
 # Learning classes
 * a repository for me to learn how to make classes in python.
 * I'll try to explain everything i understood about classes in this readme file.
-* why? because i want to.
+* why? because i want to. also, to learn git.
 
 1 - car.py (02/03/2025)
 ```
