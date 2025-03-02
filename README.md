@@ -3,7 +3,7 @@
 * I'll try to explain everything i understood about classes in this readme file.
 * why? because i want to.
 
-1 - car.py (02/03/2025)
+1 - car.py (03/02/2025)
 ```
 class Car: # creates the car class
     def __init__(self, model, color): # constructs the instance
